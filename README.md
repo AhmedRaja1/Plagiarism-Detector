@@ -26,3 +26,6 @@ Uses naive methods to detect observable plagiarism in text files.
 **5.**   Compile `run.cpp` in C++11 (or above), with the command `g++ run.cpp -std=c++11`.
 
 **6.**   Run the generated executable with the command `./a.out` *(in Linux environment).*
+
+# Image of the project
+![](https://raw.githubusercontent.com/AhmedRaja1/Plagiarism-Detector/main/WhatsApp%20Image%202021-03-18%20at%2011.05.43%20PM.jpeg)
